@@ -9,9 +9,7 @@ Technologies used:
   - JavaScript
   - CSS
   - Docker
-# LIVE
 
-[LIVE WEB SITE](https://tridigital.org)
 
 # TODO:
 
